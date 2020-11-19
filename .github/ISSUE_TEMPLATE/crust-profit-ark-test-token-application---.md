@@ -2,7 +2,7 @@
 name: "Crust Profit Ark Test Token Application \U0001F4CB"
 about: Apply to get crust maxwell token to join profit ark
 title: 5GNJqTPyNqANBkUVMN1LPPrxXnFouWXoe2wNSmmEoLctxiZY
-labels: "token-wanted\U0001F64B" en
+labels: "token-wanted\U0001F64B, en"
 assignees: ''
 
 ---
