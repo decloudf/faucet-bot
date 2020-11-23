@@ -8,5 +8,5 @@ assignees: ''
 ---
 
 1. 将Crust测试网地址填写到标题上，比如"5GNJqTPyNqANBkUVMN1LPPrxXnFouWXoe2wNSmmEoLctxiZY"；
-2. 对于每份合法的申请表，小脆皮机器人会发放100个测试网代币；
+2. 对于每份合法的申请表，小脆皮机器人会发放1000个测试网代币；
 3. 每个Github账户最多申请10次；
