@@ -1,6 +1,6 @@
 ---
-name: "Crust “方舟计划”测试币申请表 \U0001F4CB"
-about: 申请获得crust maxwell测试币，玩转“方舟计划”
+name: "Crust Rocky测试币申请表 \U0001F4CB"
+about: 申请获得crust rocky测试币，玩转“Crust Rocky”
 title: 5GNJqTPyNqANBkUVMN1LPPrxXnFouWXoe2wNSmmEoLctxiZY
 labels: "token-wanted\U0001F64B, zh"
 assignees: ''
