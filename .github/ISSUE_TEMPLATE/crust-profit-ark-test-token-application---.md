@@ -1,5 +1,5 @@
 ---
-name: "Crust rocky Test Token Application \U0001F4CB"
+name: "Crust Rocky Test Token Application \U0001F4CB"
 about: Apply to get crust rocky token to join crust rocky
 title: 5GNJqTPyNqANBkUVMN1LPPrxXnFouWXoe2wNSmmEoLctxiZY
 labels: "en, token-wanted\U0001F64B"
